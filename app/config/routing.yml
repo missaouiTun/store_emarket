@@ -1,0 +1,4 @@
+common_access:
+    resource: "@CommonAccessBundle/Resources/config/routing.yml"
+    prefix:   /
+

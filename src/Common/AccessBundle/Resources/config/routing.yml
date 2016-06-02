@@ -1,0 +1,3 @@
+common_access_homepage:
+    path:     /
+    defaults: { _controller: CommonAccessBundle:Default:index }
